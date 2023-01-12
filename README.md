@@ -1,2 +1,2 @@
-# git
+# git exerices
 my use
